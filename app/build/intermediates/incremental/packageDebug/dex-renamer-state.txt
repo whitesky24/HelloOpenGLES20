@@ -1,0 +1,7 @@
+#Wed Aug 02 21:52:05 JST 2017
+base.0=D\:\\git\\HelloOpenGLES20\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_89ddcaf9ad97268e2d58d61229700379c6ac31e7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\git\\HelloOpenGLES20\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e849bd462e45e0ef218c3d71d0094d99c461765c\\classes.dex
+base.1=D\:\\git\\HelloOpenGLES20\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e849bd462e45e0ef218c3d71d0094d99c461765c
+file.0=D\:\\git\\HelloOpenGLES20\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_89ddcaf9ad97268e2d58d61229700379c6ac31e7\\classes.dex

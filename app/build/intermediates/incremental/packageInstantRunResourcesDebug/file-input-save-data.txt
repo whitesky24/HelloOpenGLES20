@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Aug 02 21:52:01 JST 2017
+1.base=D\:\\git\\HelloOpenGLES20\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\git\\HelloOpenGLES20\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.base=D\:\\git\\HelloOpenGLES20\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\git\\HelloOpenGLES20\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\ic_launcher.png
+count=4
+1.set=ANDROID_RESOURCE
+3.base=D\:\\git\\HelloOpenGLES20\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\git\\HelloOpenGLES20\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\git\\HelloOpenGLES20\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=D\:\\git\\HelloOpenGLES20\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
